@@ -43,4 +43,4 @@ Follow the instructions to set the proeject running.
 	Run the project
 
 7. 
-	Flow the instructions during execution
+	Follow the instructions during execution
