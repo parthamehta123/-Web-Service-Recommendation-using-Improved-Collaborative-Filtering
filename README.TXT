@@ -28,7 +28,7 @@ Follow the instructions to set the proeject running.
 1.
 	You will find a zip files with the name "timeWSR_CF.zip"
 2. 
-	Open Netbeans
+	Open Eclipse
 	Go to Files> Import Project> From ZIp..
 	Browse to "zip_file" 
 	select zip_file> open> Import
